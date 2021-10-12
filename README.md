@@ -1,5 +1,7 @@
 # course-vegas
 
+## Demo -> https://coursevegas.web.app/
+
 ## Project setup
 ```
 npm install
